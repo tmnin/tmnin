@@ -4,3 +4,4 @@ I'm a Computer Engineering student at the University of Waterloo. Interested in 
 
 In my free time, I like to study languages! Urdu, Punjabi, French, Japanese, and Norwegian are ok ⭕
 
+Feel free to reach out at: akashar@uwaterloo.ca
