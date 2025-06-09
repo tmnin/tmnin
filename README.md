@@ -1,7 +1,9 @@
-Hi, I'm Abeer!
+I'm a Computer Engineering student at the University of Waterloo, interested in:
 
-I'm a Computer Engineering student at the University of Waterloo. Interested in computational linguistics, natural language processing, and AI.
-
-In my free time, I like to study languages. Urdu, Punjabi, French, Japanese, and Norwegian are ok ⭕
+* Computational linguistics
+* Natural language processing
+* Deep learning
+  
+I also like to study languages and create projects surrounding them. Urdu, Punjabi, French, Japanese, and Norwegian are ok ⭕
 
 Feel free to reach out at: akashar@uwaterloo.ca
